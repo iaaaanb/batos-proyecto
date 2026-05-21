@@ -1,0 +1,28 @@
+codigo,codigo_campo,descripcion
+1,1,Salud
+15,1,Bienestar
+2,2,Ingeniería y Profesiones Afines
+11,2,Arquitectura y Construcción
+23,2,Industria y Producción
+3,3,Educación
+4,4,Servicios personales
+10,4,Servicios de Transportes
+19,4,Servicios de Seguridad
+22,4,Servicios de Higiene y Salud Ocupacional
+5,5,Educación Comercial y Administración
+9,5,Derecho
+6,6,Periodismo e Información
+7,6,Ciencias Sociales y del Comportamiento
+8,7,Ciencias Físicas
+14,7,Matemáticas y Estadísticas
+20,7,Ciencias Biológicas y Afines
+24,7,"Ciencias Naturales, Matemáticas y Estadísticas sin mayor definición"
+25,7,Medio Ambiente
+12,8,Agricultura
+17,8,Veterinaria
+26,8,Pesca
+27,8,Silvicultura
+13,9,Tecnología de la Información y la Comunicación (TIC)
+16,10,Artes
+18,10,Idiomas
+21,10,Humanidades

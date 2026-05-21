@@ -1,0 +1,16 @@
+codigo,descripcion
+1,Nunca asistió
+2,Sala cuna
+3,Jardín Infantil (Medio menor y Medio mayor)
+4,Prekínder / Kínder (Transición menor y Transición Mayor)
+5,Educación Especial (Diferencial)
+6,Primaria o Preparatoria (Sistema antiguo)
+7,Educación Básica
+8,Humanidades (Sistema Antiguo)
+9,Educación Media Científico-Humanista
+10,"Técnica, Comercial, Industrial o Normalista (Sistema Antiguo)"
+11,Educación Media Técnica Profesional
+12,Técnico Nivel Superior (Carreras 1 a 3 años)
+13,Profesional (Carreras 4 o más años)
+14,Magíster o maestría
+15,Doctorado

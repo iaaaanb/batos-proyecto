@@ -1,0 +1,122 @@
+codigo,codigo_rama,descripcion
+101,1,Cultivo de plantas no perennes
+102,1,Cultivo de plantas perennes
+103,1,Ganadería
+199,1,"Otras actividades relacionadas con la agricultura, ganadería, caza y actividades de apoyo n.c.p."
+201,1,"Silvicultura, extracción de madera y actividades de servicios conexas"
+301,1,"Pesca, acuicultura y actividades  de servicios conexas"
+401,2,Extracción y procesamiento de cobre
+501,2,Extracción de carbón de piedra y lignito
+601,2,Extracción de petróleo crudo y gas natural
+701,2,"Extracción de minerales metalíferos, excepto cobre"
+801,2,Extracción y procesamiento de litio
+899,2,"Extracción de otras minas y canteras n.c.p., excepto litio"
+901,2,Actividades de apoyo para la explotación de minas y canteras
+1001,3,"Elaboración y conservación de carne, pescado, crustáceos y moluscos"
+1002,3,"Elaboración y conservación de frutas, legumbres y hortalizas; aceites y grasas"
+1003,3,Elaboración de productos lácteos
+1004,3,Elaboración de productos de panadería
+1099,3,Elaboración de otros productos alimenticios n.c.p.
+1101,3,"Elaboración de bebidas alcohólicas y no alcohólicas, excepto vino"
+1102,3,Elaboración de vinos
+1201,3,Elaboración de productos de tabaco
+1401,3,"Fabricación de productos textiles, fabricación de prendas de vestir, productos de cuero y productos conexos"
+1601,3,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzados"
+1701,3,Fabricación de papel y productos de papel
+1801,3,Impresión y servicios de apoyo; reproducción de grabaciones
+1901,3,Fabricación de coque y productos de la refinación del petróleo
+2001,3,Fabricación de sustancias y productos químicos
+2101,3,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico"
+2201,3,Fabricación de productos de caucho y de plástico
+2301,3,Fabricación de otros productos minerales no metálicos
+2401,3,Fabricación de metales comunes
+2501,3,"Fabricación de productos elaborados de metal y servicios de trabajo de metales, excepto máquinas y equipos"
+2701,3,"Fabricación de productos informáticos, electrónicos, ópticos, equipos eléctricos y maquinaria"
+3001,3,"Fabricación de vehículos automotores, remolques y semirremolques y otros tipos de equipo de transporte"
+3101,3,Fabricación de muebles
+3201,3,Otras industrias manufactureras
+3301,3,"Mantenimiento, reparación e instalación de maquinaria y equipo"
+3501,4,"Electricidad, gas, vapor y aire acondicionado"
+3601,5,"Captación, tratamiento y distribución de agua"
+3701,5,Evacuación de aguas residuales
+3801,5,"Recogida, tratamiento y eliminación de desechos"
+3802,5,Recuperación de materiales
+3901,5,Actividades de descontaminación y otros  servicios de gestión de desechos
+4101,6,Construcción de edificios
+4201,6,Obras de ingeniería civil
+4301,6,Actividades especializadas de construcción
+4501,7,Comercio y reparación de vehículos automotores y motocicletas
+4801,7,Comercio de intermediación
+4802,7,Comercio de materias primas agropecuarias y animales vivos
+4803,7,"Comercio especializado de alimentos, bebidas y tabaco"
+4804,7,"Comercio de productos textiles, prendas de vestir y calzado, y enseres domésticos"
+4805,7,"Comercio de materiales de construcción, artículos de ferretería, gasfitería, pinturas, espejos y artículos para revestimiento"
+4806,7,Comercio de combustible para vehículos y productos conexos para uso doméstico
+4807,7,"Comercio de mercaderías n.c.p., incluso mercaderías usadas"
+4808,7,"Tiendas no especializadas con o sin predominio de la venta de alimentos, bebidas o tabaco"
+4809,7,"Comercio al por menor en mercados, ferias y otros puestos móviles"
+4810,7,"Comercio al por menor por correo, televisión, internet; comercio ambulante y otros tipos de ventas n.c.p."
+4901,8,Transporte por ferrocarril
+4902,8,Transporte de pasajeros por vía terrestre
+4903,8,Transporte de carga por vía terrestre
+5001,8,Transporte por vía acuática
+5101,8,Transporte por vía aérea
+5201,8,Depósito y almacenamiento
+5202,8,Servicios auxiliares al transporte
+5301,8,Actividades postales y de mensajería
+5501,9,Actividades de alojamiento
+5601,9,"Servicios de expendio de comidas y bebidas, excepto por vendedores ambulantes"
+5602,9,Servicios de expendio de comidas y bebidas por vendedores ambulantes
+5603,9,Servicios de suministro de comidas para eventos y otras actividades de servicio de comidas
+5801,10,Actividades de edición
+5901,10,"Actividades de producción de películas cinematográficas, videos y programas de televisión y grabación de sonido y edición de música"
+6001,10,Actividades de programación y transmisión
+6101,10,Actividades de Telecomunicaciones
+6201,10,Actividades de programación y consultorías informáticas y otras actividades conexas
+6301,10,Actividades de servicios de información
+6401,11,"lntermediación financiera y otros servicios financieros, excepto los de seguros y administración de fondos de jubilaciones y pensiones"
+6501,11,lsapres
+6502,11,"Seguros de vida o generales, reaseguros y fondos de pensiones, excepto lsapres"
+6601,11,Administradoras de Fondos de Pensiones (AFP)
+6699,11,"Otras actividades auxiliares relacionadas con los servicios financieros, seguros y fondos de pensiones; otras actividades de gestión de fondos n.c.p."
+6801,12,Actividades inmobiliarias
+6901,13,Actividades jurídicas y de contabilidad
+7001,13,"Actividades de oficinas principales, actividades de consultoría de gestión"
+7101,13,Actividades de arquitectura e ingeniería; ensayos y análisis técnicos
+7201,13,Investigación científica y desarrollo
+7301,13,Publicidad y estudios de mercado
+7401,13,"Otras actividades profesionales, científicas y técnicas"
+7501,13,Actividades veterinarias
+7701,14,Actividades de alquiler y arrendamiento
+7801,14,Actividades de empleo
+7901,14,"Agencias de viajes, operadores turísticos y actividades conexas"
+8001,14,Actividades de investigación y seguridad
+8101,14,Actividades de servicios de apoyo a edificios y actividades de limpieza en general
+8102,14,"Barrido y riego de calles, plazas, caminos, mercados, jardines y parques; actividades de paisajismo y jardinería"
+8201,14,Actividades administrativas de oficinas y otras actividades auxiliares de las empresas
+8401,15,Administración del Estado y aplicación de la política económica y social de la comunidad
+8402,15,Prestación de servicios a la comunidad en general
+8403,15,Actividades de planes de seguridad social de afiliación obligatoria
+8501,16,"Enseñanza preescolar, primaria, secundaria científico humanista y técnico profesional, pública y privada"
+8502,16,Enseñanza superior
+8599,16,Otros tipos de enseñanza
+8601,17,Actividades de hospitales públicos y privados
+8602,17,Actividades de médicos y odontólogos
+8699,17,Otras actividades de atención de la salud humana n.c.p.
+8701,17,Actividades de asistencia social en instituciones
+8801,17,Actividades de asistencia social sin alojamiento
+9001,18,"Actividades creativas, artísticas y de entretenimiento"
+9101,18,"Actividades de bibliotecas, archivos, museos y otras actividades culturales"
+9201,18,Actividades de juegos de azar y apuestas
+9301,18,"Actividades deportivas, de esparcimiento y recreativas"
+9401,19,Actividades de asociaciones
+9501,19,Reparación de equipos informáticos
+9502,19,Reparación de equipos de comunicación
+9503,19,"Reparación de efectos personales y enseres domésticos, excepto computadores y equipo periférico"
+9601,19,"Lavado y limpieza, incluida la limpieza en seco, de productos textiles y de piel"
+9602,19,Servicios de peluquería y otros tratamientos de belleza
+9603,19,Pompas fúnebres y servicios conexos
+9699,19,Otras actividades de servicios personales n.c.p.
+9701,20,Actividades de los hogares como empleadores de personal doméstico
+9801,20,Actividades de los hogares como productores de bienes o servicios para uso propio
+9901,21,Actividades de organizaciones y órganos extraterritoriales
